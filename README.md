@@ -177,6 +177,7 @@ _Building something with this list? There's a [JSON feed](#machine-readable-feed
 
 | Vendor | Deal | Code | Dates | Notes |
 |---|---|---|---|---|
+|[HackCloth](https://hackcloth.com/) | Free shipping + Buy 2 get 20% off storewide | - | Dec 31
 | [Geeksoutfit](https://www.geeksoutfit.com/) | multiple codes 10% - 30% off + free gifts | `BF10`<br>`BF20`<br>`BF30` | Nov 29 |  |
 | [Allow Some Deny All](https://shop.allowsomedenyall.com) | 10% off orders of $20–$25; 20% off orders over $25 | — | Dec 31 | Discounts apply automatically at checkout. Free standard shipping on orders over $25; $2 otherwise. Cybersecurity, hacker culture, wardriving, privacy, and biohacking stickers. |
 
